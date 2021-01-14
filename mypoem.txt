@@ -3,4 +3,6 @@ yellow
 blue
 violet
 maroon
+skyblue
+black
 and so on.
